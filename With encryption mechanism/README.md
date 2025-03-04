@@ -43,6 +43,7 @@
 
         localhost:8080/jasperserver?pp=nnwOxYNvkBbdsyVOAkOmWvZA/p1uCyt0HzSNJaSq
    * | replaced by %7C
+   * = replaced by %3D
    
    * Enter valide time for token expiretime formate yyyyMMddHHmm
    
