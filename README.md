@@ -15,4 +15,4 @@ If you have an application or portal you want to use with JasperReports Server, 
 
 For more information check **TIBCO JasperReports Server Authentication Cookbook**
 
-https://community.jaspersoft.com/documentation/jasperreports-authentication-cookbook/v56/token-based-authentication
+https://community.jaspersoft.com/documentation/jasperreports-server/tibco-jasperreports-server-authentication-cookbook/v900/jasperreportsserver-auth-cookbook-_-token-_-tokenauth-introduction/#Security
